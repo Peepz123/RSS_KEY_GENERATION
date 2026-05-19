@@ -1,10 +1,5 @@
 # RSS-Based Secret Key Generation (MVQ Pipeline)
-
-**B.Tech Project — Meenakshi Sundararajan Engineering College**  
-Information Technology | Anna University | May 2024
-
----
-
+  
 ## Project overview
 
 Implements the full Physical Layer Secret Key Generation pipeline using
